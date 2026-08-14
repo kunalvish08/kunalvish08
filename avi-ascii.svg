@@ -1,0 +1,394 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="586"
+height="485"
+viewBox="0 0 586 485">
+
+<defs>
+
+<style>
+
+.terminal {
+    fill: #0d1117;
+}
+
+.frame {
+    fill: none;
+    stroke: #30363d;
+    stroke-width: 1;
+}
+
+.ascii {
+    font-family:
+        "Courier New",
+        "Liberation Mono",
+        monospace;
+
+    font-size: 9px;
+
+    font-weight: 700;
+
+    fill: #58a6ff;
+
+    opacity: 0;
+
+    animation:
+        typeLine
+        0.5s
+        ease-out
+        forwards;
+}
+
+@keyframes typeLine {
+
+    0% {
+        opacity: 0;
+        transform:
+            translateX(-12px);
+    }
+
+    100% {
+        opacity: 1;
+        transform:
+            translateX(0);
+    }
+
+}
+
+</style>
+
+</defs>
+
+<rect
+    class="terminal"
+    x="0"
+    y="0"
+    width="100%"
+    height="100%"
+    rx="14"
+/>
+
+<rect
+    class="frame"
+    x="1"
+    y="1"
+    width="584"
+    height="483"
+    rx="14"
+/>
+
+
+<text
+class="ascii"
+x="20"
+y="25"
+xml:space="preserve"
+style="animation-delay:0.000s"
+>                                                                          ..:=</text>
+
+<text
+class="ascii"
+x="20"
+y="47"
+xml:space="preserve"
+style="animation-delay:0.045s"
+>                         .:-=*##%%%%%%%#*++=:.</text>
+
+<text
+class="ascii"
+x="20"
+y="58"
+xml:space="preserve"
+style="animation-delay:0.090s"
+>                       .+%%%%%@@%@@@@@@@@@@@@%#+-.</text>
+
+<text
+class="ascii"
+x="20"
+y="69"
+xml:space="preserve"
+style="animation-delay:0.135s"
+>                      -#%%%%%%%%%%%%%%%%%%%%%@@@@%+.</text>
+
+<text
+class="ascii"
+x="20"
+y="80"
+xml:space="preserve"
+style="animation-delay:0.180s"
+>                     *@%%%%%%%%%%%%@@@@@@@@@%%%%%%@@-</text>
+
+<text
+class="ascii"
+x="20"
+y="91"
+xml:space="preserve"
+style="animation-delay:0.225s"
+>                    =@%%%%%%@%%%@%%@@@@@@@@@@@@%%%%@*</text>
+
+<text
+class="ascii"
+x="20"
+y="102"
+xml:space="preserve"
+style="animation-delay:0.270s"
+>                   .%%%@@@%%%%%%%@%%%%%%%%%%@@@%%@@%@:</text>
+
+<text
+class="ascii"
+x="20"
+y="113"
+xml:space="preserve"
+style="animation-delay:0.315s"
+>                   *@%@@@@@%%%%%@@@@@@@@@@@@@%@@%@%@%.</text>
+
+<text
+class="ascii"
+x="20"
+y="124"
+xml:space="preserve"
+style="animation-delay:0.360s"
+>                   *@%@@@@@@%%%%#%############*#@@%@%</text>
+
+<text
+class="ascii"
+x="20"
+y="135"
+xml:space="preserve"
+style="animation-delay:0.405s"
+>                   :%%@@%%%%@@%+-::..:-=+*#%%%*:=%%@#</text>
+
+<text
+class="ascii"
+x="20"
+y="146"
+xml:space="preserve"
+style="animation-delay:0.450s"
+>                  . *@%%@@@@%%###*+--=+%%%#**##= =%@=</text>
+
+<text
+class="ascii"
+x="20"
+y="157"
+xml:space="preserve"
+style="animation-delay:0.495s"
+>               .-:--:*%%%=*+===*##+-:=*#*==*+*#+.-@@: :</text>
+
+<text
+class="ascii"
+x="20"
+y="168"
+xml:space="preserve"
+style="animation-delay:0.540s"
+>            :--..====:*@*.-**+#*----:-+++==+++**=.##+=.:=:.</text>
+
+<text
+class="ascii"
+x="20"
+y="179"
+xml:space="preserve"
+style="animation-delay:0.585s"
+>          :-===---====-#*:-===-:.:-::-=++------=+ =*=*=:-=-</text>
+
+<text
+class="ascii"
+x="20"
+y="190"
+xml:space="preserve"
+style="animation-delay:0.630s"
+>         .:-========-=+--:--:....:-:.:=++=-----==:=#*==--==.</text>
+
+<text
+class="ascii"
+x="20"
+y="201"
+xml:space="preserve"
+style="animation-delay:0.675s"
+>        -============-:.=-:-:::...=*+*#%#*=--==*: **+-=====-</text>
+
+<text
+class="ascii"
+x="20"
+y="212"
+xml:space="preserve"
+style="animation-delay:0.720s"
+>        =============-::-:-=---:..-*+##%@#*+++*= :+--======-</text>
+
+<text
+class="ascii"
+x="20"
+y="223"
+xml:space="preserve"
+style="animation-delay:0.765s"
+>      .-===============-::--+===+###*+++*#%%%#*=  --========.</text>
+
+<text
+class="ascii"
+x="20"
+y="234"
+xml:space="preserve"
+style="animation-delay:0.810s"
+>       :-===============--- :=+*%*+=--==+*####**-.=========:</text>
+
+<text
+class="ascii"
+x="20"
+y="245"
+xml:space="preserve"
+style="animation-delay:0.855s"
+>        ===================::**++==++#*###*+***#=-========-</text>
+
+<text
+class="ascii"
+x="20"
+y="256"
+xml:space="preserve"
+style="animation-delay:0.900s"
+>        .-==================-+##*=---:-+*+==###*:========--.</text>
+
+<text
+class="ascii"
+x="20"
+y="267"
+xml:space="preserve"
+style="animation-delay:0.945s"
+>        .-===================-=%%#**##%%%%%%%%#+:======== .</text>
+
+<text
+class="ascii"
+x="20"
+y="278"
+xml:space="preserve"
+style="animation-delay:0.990s"
+>        -====================--=*%@@@@@@@@%%#***-:---====:</text>
+
+<text
+class="ascii"
+x="20"
+y="289"
+xml:space="preserve"
+style="animation-delay:1.035s"
+>       ..=-=================-:---=+#%%%%%##****#+..*=--==:</text>
+
+<text
+class="ascii"
+x="20"
+y="300"
+xml:space="preserve"
+style="animation-delay:1.080s"
+>        -=-===============-== ----=+*##########*=. #%*-:-:</text>
+
+<text
+class="ascii"
+x="20"
+y="311"
+xml:space="preserve"
+style="animation-delay:1.125s"
+>      .-+::============----#- .----==+*****##*=:..-%@@%*=:</text>
+
+<text
+class="ascii"
+x="20"
+y="322"
+xml:space="preserve"
+style="animation-delay:1.170s"
+>        :--========---===*#%:   :-=====++**+-:..::#@%%@@@%#+-:</text>
+
+<text
+class="ascii"
+x="20"
+y="333"
+xml:space="preserve"
+style="animation-delay:1.215s"
+>       . :--====----+##%#%%%:    .:==++++=.   ..:*@%@@@%%@@@@@#+-:</text>
+
+<text
+class="ascii"
+x="20"
+y="344"
+xml:space="preserve"
+style="animation-delay:1.260s"
+>       .  :=--==+*#%@%%%%%%%-       :--:      ..=%%@@@@@@%%%%%@@@@%#*=-:.</text>
+
+<text
+class="ascii"
+x="20"
+y="355"
+xml:space="preserve"
+style="animation-delay:1.305s"
+>         .-+**#%@@@%%%%%%%%%+    :+**+**+-.    .#@%@@@@@@@@@%%%%%%@@@@@@%#*=-.</text>
+
+<text
+class="ascii"
+x="20"
+y="366"
+xml:space="preserve"
+style="animation-delay:1.350s"
+>    .-=*#%%%%%%%%%%%%%%%%%%%+  .*@@##%%@@@@*.  -%%@@@@@@@@@%%%%%%%%%%%%%@@@@@@</text>
+
+<text
+class="ascii"
+x="20"
+y="377"
+xml:space="preserve"
+style="animation-delay:1.395s"
+>   :%@%@@%%%%%%%%%%%%%%%%%%%+  ...+@##%%@%+:  .#@%@@@@@@@@@@%%%%%%%%%%%@%%%%%@</text>
+
+<text
+class="ascii"
+x="20"
+y="388"
+xml:space="preserve"
+style="animation-delay:1.440s"
+>   #@%%%%%%%%%%%%%%%%%%%%%%@*      +%%%@*:    =@%@@@@@@@%%@@%%%%%%%%%%%%@@@%@@</text>
+
+<text
+class="ascii"
+x="20"
+y="399"
+xml:space="preserve"
+style="animation-delay:1.485s"
+>  -@%%%%%%%%%%%%%%%%%%%%%%%%#.     .%%%@-    .%%%@@@@@@@@@@@@@@%%%%@@@@@@@@@@@</text>
+
+<text
+class="ascii"
+x="20"
+y="410"
+xml:space="preserve"
+style="animation-delay:1.530s"
+>  =%%%%%%%%%%%%%%%%%%%%%%%%%%.     +@%%@#    +@%@@@@@@@@@@@@@@%%@@@@@@@@@@%@@@</text>
+
+<text
+class="ascii"
+x="20"
+y="421"
+xml:space="preserve"
+style="animation-delay:1.575s"
+>  #%%@%%%%%%%%%%%%%%%%%%%%%%%:    =@%%%%@:  .%%%@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@</text>
+
+<text
+class="ascii"
+x="20"
+y="432"
+xml:space="preserve"
+style="animation-delay:1.620s"
+> -%%%@@%%%%%%%%%%%%%%%%%%%%%@-   :%%%%%%%=  +@%@@@@@@@%@@%@%@@@@@@@@@@@@@@@@@@</text>
+
+<text
+class="ascii"
+x="20"
+y="443"
+xml:space="preserve"
+style="animation-delay:1.665s"
+> *@%%@@%%%%%%%%%%%%%%%%%%%%%@+   +%%%%%%@+ :%%@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@</text>
+
+<text
+class="ascii"
+x="20"
+y="454"
+xml:space="preserve"
+style="animation-delay:1.710s"
+>.%%@@@@%%%%%%%%%%%%%%%%%%%%%@*  :#%%%%%%@+ *@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+
+
+</svg>
