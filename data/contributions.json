@@ -1460,12 +1460,16 @@
     },
     {
       "date": "2026-08-16",
+      "level": 1
+    },
+    {
+      "date": "2026-08-17",
       "level": 0
     }
   ],
   "stats": {
-    "total_activity": 328,
-    "active_days": 317,
+    "total_activity": 329,
+    "active_days": 318,
     "current_streak": 0,
     "longest_streak": 36,
     "best_day": {
